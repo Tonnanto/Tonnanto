@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Anton Stamme and I am a software developer from Germany.  
+Currently i'm studying at [Leuphana University of Lüneburg](https://www.leuphana.de/) in  northern Germany and looking forward to obtain my bachelor's degree in Business Information Systems.
+
 <!--
 **Tonnanto/Tonnanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
