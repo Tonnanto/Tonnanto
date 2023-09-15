@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 My name is Anton Stamme and I am a software developer from Germany.  
-Currently i'm studying at [Leuphana University of Lüneburg](https://www.leuphana.de/) in  northern Germany and looking forward to obtain my bachelor's degree in Business Information Systems.  
-
-[![Tonnanto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tonnanto&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+Currently i'm studying at [University of Nicosia](https://www.unic.ac.cy/) in Cyprus and looking forward to obtain my masters's degree in Blockchain and Digital Currencies.  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonnanto&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
